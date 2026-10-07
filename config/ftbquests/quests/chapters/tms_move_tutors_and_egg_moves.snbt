@@ -1,0 +1,40 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tms_move_tutors_and_egg_moves"
+	group: "4F9F30809FB74639"
+	id: "0FF16EB34AB921A6"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "33BD9364A9947ACD"
+			title: "This isn't a CD?"
+			x: -2.5d
+			y: 1.0d
+		}
+		{
+			id: "06063F6B01C27F9C"
+			tasks: [{
+				id: "359C828B3DC7E4B3"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "TM Case"
+			x: -2.5d
+			y: -2.0d
+		}
+		{
+			id: "0A5060D6957A4EAB"
+			tasks: [{
+				id: "0B8DEAD219562176"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Move Tutor?"
+			x: 3.5d
+			y: 1.0d
+		}
+	]
+	title: "TM's, Move Tutors and Egg Moves"
+}

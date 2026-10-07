@@ -1,0 +1,300 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "zmoves"
+	group: "2C635A8279381557"
+	id: "421E311BCFAE0BDD"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "152FA6D47D32A958"
+			tasks: [{
+				id: "5E5D3429A0AF489C"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Sparkling Stone?"
+			x: -14.5d
+			y: -1.5d
+		}
+		{
+			id: "44B04E830BC9F64F"
+			tasks: [{
+				id: "772633273A2D03F4"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Z Ring"
+			x: -14.5d
+			y: -5.0d
+		}
+		{
+			id: "39DCC75301BB318D"
+			tasks: [{
+				id: "5037DB7FBF80F9B1"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			x: -14.5d
+			y: -8.5d
+		}
+		{
+			id: "7AE6A4D96791C31D"
+			tasks: [{
+				id: "7DA2F883D1833EC2"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Defeat Ilima"
+			x: -20.0d
+			y: -7.0d
+		}
+		{
+			id: "5AAA4F895E51837F"
+			tasks: [{
+				id: "606E9CA6EB50DC70"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Defeat Totem Gumshoos and Raticate"
+			x: -24.0d
+			y: -7.0d
+		}
+		{
+			id: "2DC2EE2350FF8F1B"
+			tasks: [{
+				id: "263651F8564F6CD9"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Defeat Kahuna Hala"
+			x: -27.5d
+			y: -7.0d
+		}
+		{
+			id: "4A7BFBD240769C97"
+			tasks: [{
+				id: "0735343535946A5E"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Defeat Totem Wishiwashi and Araquanid"
+			x: -20.0d
+			y: -10.5d
+		}
+		{
+			id: "4CD5E13428A00FB7"
+			tasks: [{
+				id: "12238C9652E22F07"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			x: -24.0d
+			y: -10.5d
+		}
+		{
+			id: "29EA763D3817902A"
+			tasks: [{
+				id: "5CC9F2579C6593EA"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Defeat Trial Captain Lana"
+			x: -27.5d
+			y: -10.5d
+		}
+		{
+			id: "0429FDF8EC4D192C"
+			tasks: [{
+				id: "598E6A743EA8DC5A"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Defeat Totem Marowak and Salazzle"
+			x: -31.0d
+			y: -10.5d
+		}
+		{
+			id: "4B393BAE93C2B3FB"
+			tasks: [{
+				id: "1E04441FC449B83C"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Defeat Trial Captain Kiawe"
+			x: -34.5d
+			y: -10.5d
+		}
+		{
+			id: "215C73837007A733"
+			tasks: [{
+				id: "436EA7AC22B053C6"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Defeat Totem Lurantis and Tsareena "
+			x: -38.0d
+			y: -10.5d
+		}
+		{
+			id: "057316EF7C1095EA"
+			tasks: [{
+				id: "5E1EFE60C9E96055"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Defeat Captain Mallow"
+			x: -41.5d
+			y: -10.5d
+		}
+		{
+			id: "6C4AC15958316E00"
+			tasks: [{
+				id: "4DF072E44332C09D"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Defeat Kahuna Olivia"
+			x: -45.0d
+			y: -10.5d
+		}
+		{
+			id: "2411EFB976DCAF0C"
+			tasks: [{
+				id: "1E3695F0029EBF61"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Defeat Totem Vikavolt and Togedemaru"
+			x: -20.0d
+			y: -14.0d
+		}
+		{
+			id: "4F0F6FC1B73268E9"
+			tasks: [{
+				id: "767155A9E4C1099C"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Defeat Trial Captain Sophocles"
+			x: -24.0d
+			y: -14.0d
+		}
+		{
+			id: "66F20A69D130316C"
+			tasks: [{
+				id: "26DB8EC32B919F74"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Defeat the Steel Totem Pokemon"
+			x: -27.5d
+			y: -14.0d
+		}
+		{
+			id: "11EC3A6B9AC15F8D"
+			tasks: [{
+				id: "5A8C134E9D7667E0"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Defeat Trial Captain Molayne"
+			x: -31.0d
+			y: -14.0d
+		}
+		{
+			id: "1BE826CE5B9F93E1"
+			tasks: [{
+				id: "60FD3C9787BD2CED"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Defeat Totem Mimikyu and Gengar"
+			x: -34.5d
+			y: -14.0d
+		}
+		{
+			id: "1B2D83E17666A7D8"
+			tasks: [{
+				id: "7F7913819007B7AF"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Defeat Trial Captain Acerola"
+			x: -38.0d
+			y: -14.0d
+		}
+		{
+			id: "0A4C497B0C215A3E"
+			tasks: [{
+				id: "6D18E3730A7BA955"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Defeat Kahuna Nanu"
+			x: -41.5d
+			y: -14.0d
+		}
+		{
+			id: "4190CFE5A58B581E"
+			tasks: [{
+				id: "142411CD54AC3200"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Defeat the Totem Kommo-o and Totem Ribombee"
+			x: -20.0d
+			y: -18.0d
+		}
+		{
+			id: "5273F824A00EB0F4"
+			tasks: [{
+				id: "72654787403BDDEA"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Defeat the Dragon Type Trial Captain "
+			x: -24.0d
+			y: -18.0d
+		}
+		{
+			id: "054EE3E064D9E196"
+			tasks: [{
+				id: "4B783D14D9D3D5F2"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Defeat Kahuna Mina"
+			x: -27.5d
+			y: -18.0d
+		}
+		{
+			id: "728FAE26C49D883C"
+			tasks: [{
+				id: "3E3A7D70BDB055E4"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Build the Z-Engraver"
+			x: -31.0d
+			y: -18.0d
+		}
+		{
+			description: [
+				"Multi needs to be built above y250 in a mountain biome. can only be used at midday or midnight. craft the ball then use the crystals to summon solgaleo or lunala. survive being attacked by necrozma, he steals the Z crystals and you chase him to the end where you battle his ultra form and get the Z crystals back"
+				"."
+			]
+			id: "3B6D3286038AE95E"
+			tasks: [{
+				id: "5540C71B66B18251"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Craft the Photo-Resistant Light Stabilised Poke-ball "
+			x: -34.5d
+			y: -18.0d
+		}
+	]
+	title: "Z-Moves (EV Tier)"
+}

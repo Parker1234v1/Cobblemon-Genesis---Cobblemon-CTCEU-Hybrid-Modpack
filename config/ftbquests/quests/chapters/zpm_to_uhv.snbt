@@ -1,0 +1,43 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "zpm_to_uhv"
+	group: "7156C6E5515A225A"
+	icon: "gtceu:quantum_processor_mainframe"
+	id: "249D1FDC203EC50E"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			id: "25EA2A732701116B"
+			tasks: [{
+				id: "0FF1A8085E37DA19"
+				item: "gtceu:quantum_processor_mainframe"
+				type: "item"
+			}]
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			id: "1608D0D2B8E5636D"
+			tasks: [{
+				id: "6F7C7EE1F96F55E8"
+				item: "gtceu:wetware_processor_mainframe"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			id: "3CA3B8A40E4C9829"
+			tasks: [{
+				id: "5D53F36CD8FFB0FA"
+				item: "gtceu:crystal_processor_mainframe"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+	]
+	title: "ZPM to UHV (Release 4)"
+}

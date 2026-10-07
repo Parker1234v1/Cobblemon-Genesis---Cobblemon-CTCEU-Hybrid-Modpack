@@ -1,0 +1,79 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "regional_forms_and_evolutions"
+	group: "4F9F30809FB74639"
+	id: "034C0535E1B2FDD0"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			id: "13660F16631D87A9"
+			tasks: [{
+				id: "3B01025E5C074F4E"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Are you a shiny?"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			description: ["Regional forms of Pokemon are different to their normal versions. "]
+			id: "57B9F7B3E1EE3FD7"
+			tasks: [{
+				id: "1144EA3545D61B87"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Regional Forms"
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			id: "61A52E375618A5D7"
+			tasks: [{
+				id: "59B98C6FA1771821"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Alolan Forms"
+			x: -3.5d
+			y: -2.5d
+		}
+		{
+			id: "7553F31AC571F5F1"
+			tasks: [{
+				id: "4613621DEAAC5B40"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Galarian Forms"
+			x: -2.0d
+			y: -5.0d
+		}
+		{
+			id: "6D555E5A99A8AFE9"
+			tasks: [{
+				id: "32A11D1EB0557F74"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Hisuian Forms"
+			x: 2.0d
+			y: -5.0d
+		}
+		{
+			id: "2437109BE74DEA3A"
+			tasks: [{
+				id: "4DB7C0AEB8CECAAC"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Paldean Forms"
+			x: 3.5d
+			y: -2.5d
+		}
+	]
+	title: "Regional Forms and Evolutions"
+}

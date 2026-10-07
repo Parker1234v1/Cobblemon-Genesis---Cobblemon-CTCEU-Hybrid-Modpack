@@ -1,0 +1,89 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "ev_training_ivs_and_natures"
+	group: "4F9F30809FB74639"
+	id: "156ECE635E195F29"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "75B1E0812FAC7338"
+			tasks: [{
+				id: "4EBE8FDB9A747BDE"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "What do the stats of my Pokemon do?"
+			x: -2.5d
+			y: 3.0d
+		}
+		{
+			id: "5A412B825013DE63"
+			tasks: [{
+				id: "37FB33DE5B857139"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Effort Values (EV's)"
+			x: -4.5d
+			y: -1.5d
+		}
+		{
+			id: "1F90F2DB59F328D4"
+			tasks: [{
+				id: "7B197A190AB67380"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Individual Values (IV's)"
+			x: -0.5d
+			y: -1.5d
+		}
+		{
+			id: "43E81A108E512B35"
+			tasks: [{
+				id: "65B541093AAEFE38"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "What are natures?"
+			x: -2.5d
+			y: 0.5d
+		}
+		{
+			id: "07D35B4345B03B2F"
+			tasks: [{
+				id: "06E12E6CD536EE9A"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Hyper Training"
+			x: -0.5d
+			y: -4.0d
+		}
+		{
+			id: "54928FE2CBC149C1"
+			tasks: [{
+				id: "131EDC9655701D72"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "EV Training?"
+			x: -4.5d
+			y: -4.0d
+		}
+		{
+			id: "60FE1FCA0BCFB47B"
+			tasks: [{
+				id: "795BB739803B1B33"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "add in nature table"
+			x: -0.5d
+			y: 0.5d
+		}
+	]
+	title: "EV Training, IV's and Natures"
+}

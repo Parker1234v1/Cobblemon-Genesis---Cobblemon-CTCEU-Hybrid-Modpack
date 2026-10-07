@@ -1,1 +1,17 @@
-./*
+# Ignore everything so repo can be used in game
+/*
+
+# add directories with source code'
+!config/
+!defaultconfigs/
+!kubejs/
+!.github/
+
+# add files in main directory
+!mods/
+!.gitignore
+!LICENSE
+!README.md
+
+#specific exclusions
+

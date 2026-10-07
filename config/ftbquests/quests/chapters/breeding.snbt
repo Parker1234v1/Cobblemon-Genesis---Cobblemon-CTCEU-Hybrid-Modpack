@@ -1,0 +1,12 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "breeding"
+	group: "4F9F30809FB74639"
+	icon: "farmersdelight:egg_sandwich"
+	id: "6793FF4426AD30B5"
+	order_index: 4
+	quest_links: [ ]
+	quests: [ ]
+	title: "Breeding"
+}

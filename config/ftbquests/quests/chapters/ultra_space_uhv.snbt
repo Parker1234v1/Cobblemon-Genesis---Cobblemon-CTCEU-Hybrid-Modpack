@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "ultra_space_uhv"
+	group: "2C635A8279381557"
+	id: "1095E836F2C024A6"
+	order_index: 7
+	quest_links: [ ]
+	quests: [ ]
+	title: "Ultra Space (UHV)"
+}

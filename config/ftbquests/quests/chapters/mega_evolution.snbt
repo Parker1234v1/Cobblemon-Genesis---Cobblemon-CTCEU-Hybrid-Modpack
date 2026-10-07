@@ -1,0 +1,617 @@
+{
+	autofocus_id: "630EFD13B3C4954C"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "mega_evolution"
+	group: "2C635A8279381557"
+	id: "6D90D128572CD14F"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"The Mega Ring is made using an Assline at LuV"
+				""
+				"The Keystone is obtained by running a Blank Mega Stone and 32 Mega Stone Shards through a Fusion Reactor."
+			]
+			id: "1ECC74767FC60121"
+			tasks: [{
+				id: "47B58A2444C5A04F"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Mega Ring and Keystone"
+			x: -24.0d
+			y: 3.0d
+		}
+		{
+			description: [
+				"Mega Raids are &odifficult.&o"
+				""
+				"Depending on the raid, the pokemon will be up to 20 levels higher than your highest level Pokemon. "
+				""
+				"They have 4 out of 6 Perfect Stats, competitive movesets, abilities and EV Training. "
+				""
+				"Their AI is based on Pokemon World Champions, like WolfeGlick. "
+				""
+				"&l&oGOOD LUCK&o&l"
+			]
+			id: "119D70C48C13DDBD"
+			tasks: [{
+				id: "31A02AA8239A47D7"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Mega Raids?"
+			x: -24.0d
+			y: 11.0d
+		}
+		{
+			description: ["You can obtain these from Mega Raids at a 1 in 6 chance. You need one &oper&r Mega Stone"]
+			id: "19031B8A2959AAE7"
+			tasks: [{
+				id: "53F4B64B27FBFD00"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Blank Mega Stone?"
+			x: -24.0d
+			y: 7.0d
+		}
+		{
+			description: [
+				"Now you've obtained your first Mega Stone Shard, you're probably wondering what to do with them, right?"
+				""
+				"You may want to take a look in Processing Lines 2"
+			]
+			id: "6FE93ED94BCD51C8"
+			tasks: [{
+				id: "57F26606357AFCE6"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Mega Stone Shards?"
+			x: -24.0d
+			y: -1.0d
+		}
+		{
+			description: ["need to code ZA combat for this one"]
+			id: "7F3623794B4C63E0"
+			subtitle: "This is UEV Content, you don't need to worry about this yet."
+			tasks: [{
+				id: "18C0915398EA23AD"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Mega Dimension?"
+			x: -19.0d
+			y: -1.0d
+		}
+		{
+			id: "50CE8DC6ECE25B7D"
+			size: 1.25d
+			tasks: [{
+				id: "2E692BDB38EB4D7F"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Galladite"
+			x: -18.0d
+			y: -19.375d
+		}
+		{
+			id: "554FDA47475CC15C"
+			size: 1.25d
+			tasks: [{
+				id: "60B407A3567980E5"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Heracronite"
+			x: -18.0d
+			y: -16.875d
+		}
+		{
+			id: "3304816021D6AFF4"
+			size: 1.25d
+			tasks: [{
+				id: "54C598DF52D06E66"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Pidgeotite"
+			x: -18.0d
+			y: -14.375d
+		}
+		{
+			id: "529DF5955A7A62F3"
+			size: 1.25d
+			tasks: [{
+				id: "4E795F8B2CC4DBA0"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Scizorite"
+			x: -21.0d
+			y: -11.875d
+		}
+		{
+			id: "4E1EEF1D7866D4CC"
+			size: 1.25d
+			tasks: [{
+				id: "5A9F4460DA913A6E"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Sceptilite"
+			x: -24.0d
+			y: -11.875d
+		}
+		{
+			id: "20749E87CD44B949"
+			size: 1.25d
+			tasks: [{
+				id: "002251F2BE37295E"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Salamencite"
+			x: -27.0d
+			y: -11.875d
+		}
+		{
+			id: "38E39CD521E4B25F"
+			size: 1.25d
+			tasks: [{
+				id: "104FD3DE076B5D18"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Slowbronite"
+			x: -27.0d
+			y: -9.375d
+		}
+		{
+			id: "42D0C9BF600DE92F"
+			size: 1.25d
+			tasks: [{
+				id: "1321E2DFA9935E20"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Steelixite"
+			x: -24.0d
+			y: -9.375d
+		}
+		{
+			id: "6D91AB694FB985E8"
+			size: 1.25d
+			tasks: [{
+				id: "399933FE9281BCCE"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Swampertite"
+			x: -21.0d
+			y: -9.375d
+		}
+		{
+			id: "7F4D4F8F355A7512"
+			size: 1.25d
+			tasks: [{
+				id: "1928B7B90C85D77C"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Manectite"
+			x: -30.0d
+			y: -14.375d
+		}
+		{
+			id: "244CA94DF08FBB06"
+			size: 1.25d
+			tasks: [{
+				id: "295BF94B6B58F59B"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Gyaradosite"
+			x: -30.0d
+			y: -16.875d
+		}
+		{
+			id: "1AA30727C4CE7C2A"
+			size: 1.25d
+			tasks: [{
+				id: "490D52C73E1C4F3C"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Blazikenite"
+			x: -30.0d
+			y: -19.375d
+		}
+		{
+			id: "114EF874AE3C7B73"
+			size: 1.25d
+			tasks: [{
+				id: "5E3A16FEF9643D6F"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Ampharosite"
+			x: -27.0d
+			y: -21.875d
+		}
+		{
+			id: "67C469E0D9DD8DEC"
+			size: 1.25d
+			tasks: [{
+				id: "67FF0A5BB9D6AC8D"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Audinite"
+			x: -24.0d
+			y: -21.875d
+		}
+		{
+			id: "59BE4454AEC56A4C"
+			size: 1.25d
+			tasks: [{
+				id: "1D84532B998E4DDB"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Banettite"
+			x: -21.0d
+			y: -21.875d
+		}
+		{
+			id: "5E68F0DAC2D4998A"
+			size: 1.25d
+			tasks: [{
+				id: "121DF3DA94F00E88"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Aerodactylite"
+			x: -27.0d
+			y: -24.375d
+		}
+		{
+			id: "5D74BBFE9B342118"
+			size: 1.25d
+			tasks: [{
+				id: "3B02376B18F3C13A"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Aggronite"
+			x: -24.0d
+			y: -24.375d
+		}
+		{
+			id: "4A9D73C57E908F45"
+			size: 1.25d
+			tasks: [{
+				id: "17F0FC971D117462"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Alakazite"
+			x: -21.0d
+			y: -24.375d
+		}
+		{
+			id: "5A264CC1A007D2A6"
+			size: 1.25d
+			tasks: [{
+				id: "21620F3AD17D59D7"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Cameruptite"
+			x: -27.0d
+			y: -19.375d
+		}
+		{
+			id: "235DEB6E76BC2933"
+			size: 1.25d
+			tasks: [{
+				id: "25F533F2058213A2"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Charizardite Y"
+			x: -21.0d
+			y: -19.375d
+		}
+		{
+			id: "018792731F5DEB3D"
+			size: 1.25d
+			tasks: [{
+				id: "4F64CA0036727A17"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Metagrossite"
+			x: -21.0d
+			y: -14.375d
+		}
+		{
+			id: "64CD8ED9B96D6E61"
+			size: 1.25d
+			tasks: [{
+				id: "4FE627719DA92F24"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Mawilite"
+			x: -27.0d
+			y: -14.375d
+		}
+		{
+			id: "1FD8D65532096B33"
+			size: 2.0d
+			tasks: [{
+				id: "460EEC7BAB626D13"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Mega Stone Synthesizer"
+			x: -24.0d
+			y: -17.0d
+		}
+		{
+			id: "3E77DAEFB40D0CD1"
+			size: 1.25d
+			tasks: [{
+				id: "5740FC71701FE263"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Altarianite"
+			x: -30.0d
+			y: -21.875d
+		}
+		{
+			id: "49C9F663A46B98E1"
+			size: 1.25d
+			tasks: [{
+				id: "7D1142AE0F397FFF"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Beedrillite"
+			x: -18.0d
+			y: -21.875d
+		}
+		{
+			id: "58B4408DBB550ED2"
+			size: 1.25d
+			tasks: [{
+				id: "45EC32D6E88E8218"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Sablenite"
+			x: -30.0d
+			y: -11.875d
+		}
+		{
+			id: "07884DEEA251AFB3"
+			size: 1.25d
+			tasks: [{
+				id: "3DE40F54FE3B67CD"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Sharpedonite"
+			x: -18.0d
+			y: -11.875d
+		}
+		{
+			id: "0531CFD481CF3437"
+			size: 1.25d
+			tasks: [{
+				id: "2F1C9647EC87E997"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Tyranitarite"
+			x: -24.0d
+			y: -7.125d
+		}
+		{
+			id: "34AA5E2DEC48F979"
+			size: 1.25d
+			tasks: [{
+				id: "117FFAB2375C637C"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Absolite"
+			x: -24.0d
+			y: -26.875d
+		}
+		{
+			id: "4FD710B5EE4DD536"
+			size: 1.25d
+			tasks: [{
+				id: "11BD918B1F55A24B"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Blastoisenite"
+			x: -32.5d
+			y: -19.375d
+		}
+		{
+			id: "001D32C86AB6AF4B"
+			size: 1.25d
+			tasks: [{
+				id: "58BE8A0E42839A58"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Glalitite"
+			x: -32.5d
+			y: -16.875d
+		}
+		{
+			id: "0E8E638CDADF5C98"
+			size: 1.25d
+			tasks: [{
+				id: "344622FFEFBAD73D"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Lucarionite"
+			x: -32.5d
+			y: -14.375d
+		}
+		{
+			id: "5DF8E54FB4A0C1B0"
+			size: 1.25d
+			tasks: [{
+				id: "1FDB73F8B5808749"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Garchompite"
+			x: -15.625d
+			y: -19.375d
+		}
+		{
+			id: "22CEB94E8272E829"
+			size: 1.25d
+			tasks: [{
+				id: "1526E6AFD986E707"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Houndoominite"
+			x: -15.625d
+			y: -16.875d
+		}
+		{
+			id: "23D44D02A2FB26C1"
+			size: 1.25d
+			tasks: [{
+				id: "63C45D3AC82387A9"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Pinsirite"
+			x: -15.625d
+			y: -14.375d
+		}
+		{
+			id: "719E3FDBBB918EDE"
+			size: 1.25d
+			tasks: [{
+				id: "018751AB781CF32A"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Kangaskhanite"
+			x: -13.125d
+			y: -16.875d
+		}
+		{
+			id: "363851C13B146717"
+			size: 1.25d
+			tasks: [{
+				id: "5165FC5F9C258B0C"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Gengarite"
+			x: -35.0d
+			y: -16.875d
+		}
+		{
+			id: "789C4211B5B7EA74"
+			size: 1.25d
+			tasks: [{
+				id: "161FAA38BDABDA35"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Charizardite X"
+			x: -24.0d
+			y: -19.5d
+		}
+		{
+			id: "03803BEE7F69A00D"
+			size: 1.25d
+			tasks: [{
+				id: "4FED97F0B41B91CB"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Medichamite"
+			x: -24.0d
+			y: -14.37d
+		}
+		{
+			id: "4D17B2A60F62F344"
+			size: 1.25d
+			tasks: [{
+				id: "293645ED33DCAFF4"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Gardevoirite"
+			x: -37.5d
+			y: -16.87d
+		}
+		{
+			id: "6F3D3221F5AEAB95"
+			tasks: [{
+				id: "10D2F03F89F50603"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Venusaurite"
+			x: -24.0d
+			y: -4.5d
+		}
+		{
+			id: "5382542A5E3382F0"
+			tasks: [{
+				id: "743CB06E9CE5A03F"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Abomasite"
+			x: -24.0d
+			y: -30.0d
+		}
+		{
+			id: "667DF5C77F0330E0"
+			size: 1.25d
+			tasks: [{
+				id: "7D9DA3A3D3EE5291"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Lopunnite"
+			x: -10.5d
+			y: -16.87d
+		}
+		{
+			id: "62E455BACF1AFCF6"
+			tasks: [{
+				id: "629F4339C108BCDA"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "IV Circuit"
+			x: -24.0d
+			y: 14.0d
+		}
+	]
+	title: "Mega Evolution (LuV Tier)"
+}

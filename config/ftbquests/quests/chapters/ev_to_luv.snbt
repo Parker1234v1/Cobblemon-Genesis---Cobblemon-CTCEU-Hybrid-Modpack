@@ -1,0 +1,48 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "ev_to_luv"
+	group: "7156C6E5515A225A"
+	id: "2222DDD37F5A847A"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"Now you've unlocked IV Circuit, you have access to the End after beating Necrozma and reclaiming your Z Crystals. "
+				""
+				"Using some rare ores mined in the end, you can craft your first rocket!"
+			]
+			id: "18A872D58ABAB253"
+			tasks: [{
+				id: "17E3157CEE4EDC0D"
+				item: "gtceu:micro_processor_mainframe"
+				type: "item"
+			}]
+			title: "IV Circuit"
+			x: 0.5d
+			y: -1.0d
+		}
+		{
+			id: "3DDCF242367B3BC6"
+			tasks: [{
+				id: "7C8E29724A632866"
+				item: "gtceu:micro_processor_computer"
+				type: "item"
+			}]
+			x: -5.5d
+			y: -1.0d
+		}
+		{
+			id: "71ED7CE2C4C38096"
+			tasks: [{
+				id: "1A0B517E768F02C0"
+				item: "gtceu:nano_processor_mainframe"
+				type: "item"
+			}]
+			x: 6.0d
+			y: -1.0d
+		}
+	]
+	title: "EV to LuV (Release 3)"
+}

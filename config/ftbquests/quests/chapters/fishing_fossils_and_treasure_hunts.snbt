@@ -1,0 +1,217 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "fishing_fossils_and_treasure_hunts"
+	group: "4F9F30809FB74639"
+	id: "6336A7BA4F63D517"
+	order_index: 6
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"You found a Fossil! "
+				""
+				"What do you do with them?"
+				""
+				"For now, you wait. You can't revive any of these majestic creatures yet, so set your fossils aside for later."
+			]
+			id: "1CA8514CD95A2105"
+			subtitle: "obtained is:cobblemon_fossil"
+			tasks: [{
+				id: "6ACE318353B2C26E"
+				item: "cobblemon:helix_fossil"
+				type: "item"
+			}]
+			x: -4.5d
+			y: -4.0d
+		}
+		{
+			dependencies: [
+				"462850EAF94DF421"
+				"6ACE318353B2C26E"
+			]
+			description: [
+				"Now you're able to provide Low Voltage power to your Machines, you can build start to analyze the Fossils you've hopefully been finding while mining and exploring. "
+				""
+				"You can analyze these fossils in the Fossil Analyzer and potentially obtain PART of a Fossil Pokemon's DNA. "
+			]
+			id: "53E9F023590BC116"
+			min_required_dependencies: 2
+			subtitle: "change for gt fosil analyzer. "
+			tasks: [{
+				id: "08792C69DAAA9579"
+				item: "cobblemon:fossil_analyzer"
+				type: "item"
+			}]
+			x: -1.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["53E9F023590BC116"]
+			description: ["When you have the complete DNA of the Pokemon, you can reconstruct it in the DNA Sequencer. "]
+			id: "4DB6A60FF862A85C"
+			min_required_dependencies: 1
+			tasks: [{
+				id: "42CFE5B123400FFD"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "DNA Sequencer"
+			x: 2.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["4DB6A60FF862A85C"]
+			description: ["By combining a Pokemon Egg with the DNA of the Fossil Pokemon, you get a Fossil Pokemon Egg which you have to Incubate to hatch"]
+			id: "67BD48493D49472B"
+			min_required_dependencies: 1
+			tasks: [{
+				id: "264C3AA374D3A43E"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Gene Applicator"
+			x: 6.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["67BD48493D49472B"]
+			description: [
+				"Now you have your Fossil Pokemon Egg, you need to hatch it. "
+				""
+				"Unlike typical Pokemon eggs, these require Incubation to hatch. "
+			]
+			id: "4C181725B7D44AA3"
+			tasks: [{
+				id: "3D220241F07CAF67"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Egg Incubation"
+			x: 9.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["4C181725B7D44AA3"]
+			id: "54B432DCEE2F62AE"
+			subtitle: "Explain IV Floors increasing as tiers go up"
+			tasks: [{
+				id: "659FED92EDC85F60"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Tiered Incubators"
+			x: 13.0d
+			y: -4.0d
+		}
+		{
+			id: "19DD8FC3F6E77D7F"
+			tasks: [{
+				id: "0FCF3ACF83F611ED"
+				item: {
+					Count: 1
+					id: "minecraft:fishing_rod"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Fish up your first Pokemon"
+			x: -38.5d
+			y: -4.0d
+		}
+		{
+			id: "1F144C9CCDECD8DC"
+			tasks: [{
+				id: "7E8D12A893D0F357"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "A use for Lure Balls?"
+			x: -38.5d
+			y: -13.0d
+		}
+		{
+			description: ["bait that helps increase odds of catching certain mons from different regions"]
+			id: "5603A15FCBFE0CFA"
+			tasks: [{
+				id: "6B86262315539125"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "New Bait"
+			x: -29.5d
+			y: -14.5d
+		}
+		{
+			description: [
+				"HV."
+				""
+				"pressure system where if you go underwater you need a diving suit. stronger water type pokemon the further down you go, with the strongest ones being in na custom biome.  "
+			]
+			id: "78008DA0322612D6"
+			tasks: [{
+				id: "7304BFA10C09E090"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Underwater Fishing?"
+			x: -29.5d
+			y: -10.0d
+		}
+		{
+			id: "287492C844DA2B35"
+			tasks: [{
+				id: "17E434CBFE039009"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "treasure hunts"
+			x: -4.5d
+			y: 6.5d
+		}
+		{
+			id: "583014F9816BF63B"
+			tasks: [{
+				id: "3E130DE83A1DD892"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "tiers of treasure hunt"
+			x: -1.0d
+			y: 6.5d
+		}
+		{
+			id: "6E6BFDD0A88F7C7C"
+			tasks: [{
+				id: "637E5E68C58A88F2"
+				title: "New ocean biomes?"
+				type: "checkmark"
+			}]
+			x: -29.5d
+			y: -24.0d
+		}
+		{
+			id: "4311F7050E334A50"
+			tasks: [{
+				id: "5C6F42DC6466505C"
+				title: "Pressure Suits?"
+				type: "checkmark"
+			}]
+			x: -29.5d
+			y: -5.5d
+		}
+		{
+			id: "1D0631135225DF77"
+			tasks: [{
+				id: "617F64004293803E"
+				title: "New Fishing Rods?"
+				type: "checkmark"
+			}]
+			x: -29.5d
+			y: -19.0d
+		}
+	]
+	title: "Fishing, Fossils and Treasure Hunts"
+}

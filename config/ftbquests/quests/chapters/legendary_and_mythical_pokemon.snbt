@@ -1,0 +1,959 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "legendary_and_mythical_pokemon"
+	group: "2C635A8279381557"
+	id: "608E60D4DD2ACA23"
+	order_index: 9
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"Legendary pokemon are some of the strongest Pokemon in the game. "
+				""
+				"This quest page will have information about every Legendary Pokemon obtainable in the pack. "
+			]
+			id: "51B0E1AF4283BB18"
+			rewards: [{
+				id: "7FC0D88F0974D7F3"
+				item: "minecraft:spruce_door"
+				type: "item"
+			}]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [{
+				id: "079F259BC157601D"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Become Legend."
+			x: -3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"2F5B8D00354F118F"
+				"6614ED8A38B080C5"
+				"5181547ED1838B19"
+				"78D7A85E78E289DC"
+			]
+			hide_dependency_lines: true
+			id: "6E4AF77FB1C7B8F2"
+			size: 1.5d
+			tasks: [{
+				id: "142BCC6FB5FDA467"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Kanto Legend Badge"
+			x: -3.5d
+			y: -4.0d
+		}
+		{
+			dependencies: [
+				"5A6B5A1B8FB124A9"
+				"14A12615B7759BA4"
+				"21CD1C3D01EB72DC"
+				"2D0DD587FE57E4D0"
+				"0ED3EBDC4FFE5FDB"
+				"15A55433F087D458"
+				"1D2E4A659552D4AE"
+			]
+			hide_dependency_lines: true
+			id: "4A120D4884550AE6"
+			size: 1.5d
+			tasks: [{
+				id: "7048AECF90FEFD98"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Johto Legend Badge"
+			x: -3.5d
+			y: -8.0d
+		}
+		{
+			dependencies: [
+				"589F042F7F9566ED"
+				"54DA9586A7388877"
+				"57BFE7DA99AE39AF"
+				"26CB632D50860FF7"
+				"362747E40D1C818D"
+				"6FDFA73AAC2D982F"
+			]
+			hide_dependency_lines: true
+			id: "3C1D1BBEED5987A6"
+			size: 1.5d
+			tasks: [{
+				id: "47D78C44303EBEDB"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Hoenn Legend Badge"
+			x: -3.5d
+			y: -12.5d
+		}
+		{
+			dependencies: [
+				"008EA7905AFE6EC3"
+				"656ECF74AE332B2E"
+				"337CBAC6150B8FCC"
+			]
+			hide_dependency_lines: true
+			id: "170462727798B342"
+			size: 1.5d
+			tasks: [{
+				id: "2CC51200BB419842"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Kalos Legend Badge"
+			x: 3.0d
+			y: 12.0d
+		}
+		{
+			dependencies: [
+				"5F2F06F90637DA93"
+				"2355D54262D3B7A1"
+				"0DD0BB0E9A68CF60"
+				"0B1FDAD1A4FB00BD"
+				"510FDDEE2AC5F14E"
+				"37F1FDDFDEE3E4E7"
+				"3E5D4EA89F252BEA"
+				"7A565ACBC1A088C1"
+				"14543CC02F4CB557"
+			]
+			hide_dependency_lines: true
+			id: "5B72F225F877164C"
+			size: 1.5d
+			tasks: [{
+				id: "6088B99B9D642535"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Unova Legend Badge"
+			x: 3.0d
+			y: 8.0d
+		}
+		{
+			dependencies: [
+				"31D811A1ED386611"
+				"05AD7680FC7CE5C1"
+				"38049AF69A96CF64"
+				"073BCDBD9061CF65"
+				"271ECAF9A8A705B4"
+				"76B84CA676A78B1F"
+				"4C81ED10225D0935"
+				"0BB8F8F8154416E9"
+				"48433C07483C5637"
+			]
+			hide_dependency_lines: true
+			id: "788B88E99E78EAC7"
+			size: 1.5d
+			tasks: [{
+				id: "7A0981E072146590"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Sinnoh Legend Badge"
+			x: 3.0d
+			y: 3.5d
+		}
+		{
+			dependencies: [
+				"5DA5D2E32020A8D5"
+				"2AEC9545444CA0D6"
+				"2096B2D62CEA91CE"
+				"201CD0C708A9B397"
+				"4D39F5416D3A0C97"
+				"3EFB11AB94077A71"
+				"060E20D00F9F9EF7"
+				"3FD906FBF3765C02"
+				"7D05518CB2F0CC23"
+				"3640015C231C26DC"
+				"142678A4E322F42E"
+			]
+			hide_dependency_lines: true
+			id: "5A8C7F0ED433D194"
+			size: 1.5d
+			tasks: [{
+				id: "094E48FC419D974F"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Paldea Legend Badge"
+			x: -10.0d
+			y: 12.0d
+		}
+		{
+			dependencies: [
+				"45967F92DD86C2A0"
+				"42D881ED308EEE39"
+				"010088A95EA118E3"
+				"041131508728CCD2"
+				"35248AA6169742FB"
+			]
+			hide_dependency_lines: true
+			id: "646DBD173100631D"
+			size: 1.5d
+			tasks: [{
+				id: "2616E0A2F569B590"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Galar Legend Badge"
+			x: -10.0d
+			y: 8.0d
+		}
+		{
+			dependencies: [
+				"7F5088F9AE387C81"
+				"100E12E1291428CA"
+				"7DE9B4A83D910A62"
+				"7FCAAC23602DCA86"
+				"23BEA78E8F44BED1"
+				"1164BC219B98996B"
+				"66940F048EEF3AE8"
+				"236B784C50F968C6"
+				"1AFE279FDD4A46E0"
+			]
+			hide_dependency_lines: true
+			id: "4E1F4CD65BC4CDE6"
+			size: 1.5d
+			tasks: [{
+				id: "5A3D7AAF79050837"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Alola Legend Badge"
+			x: -10.0d
+			y: 3.5d
+		}
+		{
+			id: "78D7A85E78E289DC"
+			tasks: [{
+				id: "687DC22EB1963E4F"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Zapdos"
+			x: 2.0d
+			y: -5.0d
+		}
+		{
+			id: "5181547ED1838B19"
+			tasks: [{
+				id: "0BE8FC9A801CC3BD"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Moltres"
+			x: 2.0d
+			y: -3.0d
+		}
+		{
+			id: "6614ED8A38B080C5"
+			tasks: [{
+				id: "3A605C2FF235EF9F"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Articuno"
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			id: "2F5B8D00354F118F"
+			tasks: [{
+				id: "2B1E068518EEC5D3"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Mewtwo"
+			x: -7.5d
+			y: -4.0d
+		}
+		{
+			id: "21CD1C3D01EB72DC"
+			tasks: [{
+				id: "32830F93EFE227D2"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Entei"
+			x: -7.5d
+			y: -8.0d
+		}
+		{
+			id: "0ED3EBDC4FFE5FDB"
+			tasks: [{
+				id: "130DEE94B8C652CB"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Raikou"
+			x: -10.0d
+			y: -7.0d
+		}
+		{
+			id: "2D0DD587FE57E4D0"
+			tasks: [{
+				id: "1F30538575FDF6B6"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Suicune"
+			x: -10.0d
+			y: -9.0d
+		}
+		{
+			id: "15A55433F087D458"
+			tasks: [{
+				id: "32137AE4DA768A17"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Ho-oh"
+			x: 2.0d
+			y: -9.0d
+		}
+		{
+			id: "1D2E4A659552D4AE"
+			tasks: [{
+				id: "32F50C535543F53B"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Lugia"
+			x: 2.0d
+			y: -7.0d
+		}
+		{
+			id: "14A12615B7759BA4"
+			tasks: [{
+				id: "064D12FE581DB605"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Latios"
+			x: 0.0d
+			y: -7.0d
+		}
+		{
+			id: "5A6B5A1B8FB124A9"
+			tasks: [{
+				id: "64F52F0E73ED55EE"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Latias"
+			x: 0.0d
+			y: -9.0d
+		}
+		{
+			id: "57BFE7DA99AE39AF"
+			tasks: [{
+				id: "4A9A1AA0571FAB4E"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Rayquaza"
+			x: -7.5d
+			y: -12.5d
+		}
+		{
+			id: "54DA9586A7388877"
+			tasks: [{
+				id: "1B142CC4A821CCAA"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Kyogre"
+			x: -10.0d
+			y: -11.5d
+		}
+		{
+			id: "589F042F7F9566ED"
+			tasks: [{
+				id: "51F457F0A8EF18AF"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Groudon"
+			x: -10.0d
+			y: -13.5d
+		}
+		{
+			id: "26CB632D50860FF7"
+			tasks: [{
+				id: "2C9312E9142F487A"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Regirock"
+			x: 0.0d
+			y: -12.5d
+		}
+		{
+			id: "362747E40D1C818D"
+			tasks: [{
+				id: "6AA840450B5886CD"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Regice"
+			x: 2.0d
+			y: -13.5d
+		}
+		{
+			id: "6FDFA73AAC2D982F"
+			tasks: [{
+				id: "10D2C53DB49252F0"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Registeel"
+			x: 2.0d
+			y: -11.5d
+		}
+		{
+			id: "271ECAF9A8A705B4"
+			tasks: [{
+				id: "781BC6544E261070"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Palkia"
+			x: 4.5d
+			y: 2.0d
+		}
+		{
+			id: "76B84CA676A78B1F"
+			tasks: [{
+				id: "69B4970A2CAFC3B3"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Azelf"
+			x: 8.0d
+			y: 2.5d
+		}
+		{
+			id: "31D811A1ED386611"
+			tasks: [{
+				id: "58423305EFF26DEB"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Dialga"
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			id: "0BB8F8F8154416E9"
+			tasks: [{
+				id: "46AB5D0756AAAFBE"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Mespirit"
+			x: 6.5d
+			y: 1.5d
+		}
+		{
+			id: "4C81ED10225D0935"
+			tasks: [{
+				id: "3570EA78226421C6"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Uxie"
+			x: 7.0d
+			y: -0.5d
+		}
+		{
+			id: "073BCDBD9061CF65"
+			tasks: [{
+				id: "11662F2CA40FFDE5"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Regigigas"
+			x: 8.5d
+			y: 0.5d
+		}
+		{
+			id: "05AD7680FC7CE5C1"
+			tasks: [{
+				id: "1FE0F0F1002C2DA7"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Giratina"
+			x: 6.0d
+			y: 3.5d
+		}
+		{
+			id: "38049AF69A96CF64"
+			tasks: [{
+				id: "676317EA9E0F1737"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Heatran"
+			x: 9.0d
+			y: -1.0d
+		}
+		{
+			id: "48433C07483C5637"
+			tasks: [{
+				id: "3E2EF9122BA71593"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Cresselia"
+			x: 10.0d
+			y: 1.0d
+		}
+		{
+			id: "510FDDEE2AC5F14E"
+			tasks: [{
+				id: "73D2F0200EA002A9"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Reshiram"
+			x: 5.0d
+			y: 7.0d
+		}
+		{
+			id: "14543CC02F4CB557"
+			tasks: [{
+				id: "20E44FDAA2A111E2"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Zekrom"
+			x: 5.0d
+			y: 9.0d
+		}
+		{
+			id: "5F2F06F90637DA93"
+			tasks: [{
+				id: "25DA4E2974219702"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Kyurem"
+			x: 6.5d
+			y: 8.0d
+		}
+		{
+			id: "37F1FDDFDEE3E4E7"
+			tasks: [{
+				id: "6F5CDB7788850E9D"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Tornadus"
+			x: 7.0d
+			y: 10.0d
+		}
+		{
+			id: "0DD0BB0E9A68CF60"
+			tasks: [{
+				id: "2203FEC381D2ABCD"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Terrakion"
+			x: 7.0d
+			y: 6.0d
+		}
+		{
+			id: "3E5D4EA89F252BEA"
+			tasks: [{
+				id: "6141245842E4379E"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Virizion"
+			x: 8.0d
+			y: 7.0d
+		}
+		{
+			id: "7A565ACBC1A088C1"
+			tasks: [{
+				id: "7AC90F43A68753FD"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Cobalion"
+			x: 9.0d
+			y: 5.5d
+		}
+		{
+			id: "0B1FDAD1A4FB00BD"
+			tasks: [{
+				id: "1BD62254F49476E4"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Landorus"
+			x: 8.0d
+			y: 9.0d
+		}
+		{
+			id: "2355D54262D3B7A1"
+			tasks: [{
+				id: "17897A39E668E05E"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Thundurus"
+			x: 9.0d
+			y: 10.5d
+		}
+		{
+			id: "337CBAC6150B8FCC"
+			tasks: [{
+				id: "7A3BE48A1B657C03"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Zygarde"
+			x: 5.0d
+			y: 13.5d
+		}
+		{
+			id: "008EA7905AFE6EC3"
+			tasks: [{
+				id: "584556DC4F1DBBF2"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Xerneas"
+			x: 7.0d
+			y: 15.0d
+		}
+		{
+			id: "656ECF74AE332B2E"
+			tasks: [{
+				id: "557D3A5808DBBB93"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Yveltal"
+			x: 9.0d
+			y: 16.5d
+		}
+		{
+			id: "23BEA78E8F44BED1"
+			tasks: [{
+				id: "30D2741B96F09B58"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Tapu Koko"
+			x: -12.0d
+			y: 2.0d
+		}
+		{
+			id: "1164BC219B98996B"
+			tasks: [{
+				id: "13CF28F25A0BC8E3"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Tapu Lele"
+			x: -14.0d
+			y: 2.5d
+		}
+		{
+			id: "236B784C50F968C6"
+			tasks: [{
+				id: "0EE7874750E04646"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Tapu Bulu"
+			x: -11.5d
+			y: 0.0d
+		}
+		{
+			id: "100E12E1291428CA"
+			tasks: [{
+				id: "4431CA1034927CBB"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Tapu Fini"
+			x: -13.5d
+			y: 0.5d
+		}
+		{
+			id: "7FCAAC23602DCA86"
+			tasks: [{
+				id: "2A8B77628E10AA39"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Silvally"
+			x: -13.0d
+			y: -1.5d
+		}
+		{
+			id: "66940F048EEF3AE8"
+			tasks: [{
+				id: "7B8CE58FF15F8C5F"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Type Null"
+			x: -15.5d
+			y: 1.5d
+		}
+		{
+			id: "7F5088F9AE387C81"
+			tasks: [{
+				id: "6705F2EE40012479"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Necrozma"
+			x: -15.0d
+			y: -0.5d
+		}
+		{
+			id: "7DE9B4A83D910A62"
+			tasks: [{
+				id: "41C5F1602A396BCC"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Solgaleo"
+			x: -15.0d
+			y: -2.5d
+		}
+		{
+			id: "1AFE279FDD4A46E0"
+			tasks: [{
+				id: "527555692AE56023"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Lunala"
+			x: -17.0d
+			y: -0.5d
+		}
+		{
+			id: "041131508728CCD2"
+			tasks: [{
+				id: "517D03182AE6C33A"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Zacian"
+			x: -12.0d
+			y: 7.0d
+		}
+		{
+			id: "35248AA6169742FB"
+			tasks: [{
+				id: "2D0A13A7AF4256DC"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Zamazenta"
+			x: -12.0d
+			y: 9.0d
+		}
+		{
+			id: "42D881ED308EEE39"
+			tasks: [{
+				id: "3142325EE5E77E5E"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Calyrex"
+			x: -13.5d
+			y: 8.0d
+		}
+		{
+			id: "010088A95EA118E3"
+			tasks: [{
+				id: "68386E8C7D97ED22"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Glastrier"
+			x: -15.0d
+			y: 7.0d
+		}
+		{
+			id: "45967F92DD86C2A0"
+			tasks: [{
+				id: "5CCC737E22EEAE24"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Spectrier"
+			x: -15.0d
+			y: 9.0d
+		}
+		{
+			id: "201CD0C708A9B397"
+			tasks: [{
+				id: "541E41D33C33ED4B"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Fezandipiti"
+			x: -12.0d
+			y: 14.0d
+		}
+		{
+			id: "5DA5D2E32020A8D5"
+			tasks: [{
+				id: "676819742F3C2BEB"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Okidogi"
+			x: -12.0d
+			y: 12.5d
+		}
+		{
+			id: "3640015C231C26DC"
+			tasks: [{
+				id: "7674825C28E31AF1"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Munkidori"
+			x: -10.5d
+			y: 14.0d
+		}
+		{
+			id: "3EFB11AB94077A71"
+			tasks: [{
+				id: "2E1EF8E08092C69D"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Wo-Chien"
+			x: -13.5d
+			y: 13.5d
+		}
+		{
+			id: "142678A4E322F42E"
+			tasks: [{
+				id: "17EF2DD945921592"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Ting-Lu"
+			x: -11.5d
+			y: 15.5d
+		}
+		{
+			id: "3FD906FBF3765C02"
+			tasks: [{
+				id: "7EB090E952CBBD2B"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Koraidon"
+			x: -14.5d
+			y: 15.5d
+		}
+		{
+			id: "4D39F5416D3A0C97"
+			tasks: [{
+				id: "3D8DB88FDEBE5E03"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Miraidon"
+			x: -13.5d
+			y: 16.5d
+		}
+		{
+			id: "2096B2D62CEA91CE"
+			tasks: [{
+				id: "6FF4D987DC597F87"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Ogerpon"
+			x: -13.0d
+			y: 15.0d
+		}
+		{
+			id: "2AEC9545444CA0D6"
+			tasks: [{
+				id: "7415BC43A5958D49"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Chi-Yu"
+			x: -15.0d
+			y: 14.0d
+		}
+		{
+			id: "060E20D00F9F9EF7"
+			tasks: [{
+				id: "019CEE946AEFF639"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Chien-Pao"
+			x: -11.5d
+			y: 17.0d
+		}
+		{
+			id: "7D05518CB2F0CC23"
+			tasks: [{
+				id: "469DD90AEBA715A3"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Terrapagos"
+			x: -15.0d
+			y: 17.0d
+		}
+		{
+			id: "1B35BF346763314B"
+			tasks: [{
+				id: "70A8175D94F470EC"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Regileki"
+			x: -13.5d
+			y: 6.0d
+		}
+		{
+			id: "2D5C650F958C1399"
+			tasks: [{
+				id: "5F73CE015487AF76"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Regidrago"
+			x: -13.5d
+			y: 10.0d
+		}
+		{
+			id: "4AE8681FE850B763"
+			tasks: [{
+				id: "3EBB99A3DD3011A0"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Enamorus"
+			x: -16.5d
+			y: 8.0d
+		}
+	]
+	title: "Legendary Pokemon"
+}

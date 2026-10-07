@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "gt_progression_information"
+	group: "7156C6E5515A225A"
+	id: "454BC70F6A43F373"
+	order_index: 5
+	quest_links: [ ]
+	quests: [ ]
+	title: "GT Progression Information"
+}

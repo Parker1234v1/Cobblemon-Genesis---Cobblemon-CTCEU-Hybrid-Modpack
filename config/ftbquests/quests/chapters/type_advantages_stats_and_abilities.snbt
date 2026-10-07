@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "type_advantages_stats_and_abilities"
+	group: "4F9F30809FB74639"
+	id: "5DC14E0755BF38F1"
+	order_index: 2
+	quest_links: [ ]
+	quests: [ ]
+	title: "Type Advantages, Stats and Abilities"
+}

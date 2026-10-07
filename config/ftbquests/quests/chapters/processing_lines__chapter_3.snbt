@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "processing_lines__chapter_3"
+	group: "2FAA7F1636C58549"
+	id: "3BD3A305173DBDE8"
+	order_index: 2
+	quest_links: [ ]
+	quests: [ ]
+	title: "Processing Lines - Chapter 3"
+}

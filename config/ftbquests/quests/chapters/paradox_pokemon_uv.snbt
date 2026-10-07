@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "paradox_pokemon_uv"
+	group: "2C635A8279381557"
+	id: "735D3DC49C6FEB6D"
+	order_index: 6
+	quest_links: [ ]
+	quests: [ ]
+	title: "Paradox Pokemon (UV)"
+}

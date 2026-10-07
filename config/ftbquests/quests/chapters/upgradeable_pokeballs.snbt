@@ -1,0 +1,146 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "upgradeable_pokeballs"
+	group: "2C635A8279381557"
+	icon: "cobblemon:poke_ball"
+	id: "2F378A17769B278C"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "603364374347C43B"
+			tasks: [{
+				id: "3663C3D35635EA69"
+				item: "gtceu:advanced_integrated_circuit"
+				type: "item"
+			}]
+			x: -5.0d
+			y: -5.5d
+		}
+		{
+			id: "38FF7C17A45F2E4E"
+			tasks: [{
+				id: "2C7C02B94649E8F4"
+				title: "Tier 1 Great Ball"
+				type: "checkmark"
+			}]
+			x: -6.0d
+			y: -6.5d
+		}
+		{
+			id: "582281D091EB3421"
+			tasks: [{
+				id: "5C5138E0DBDFF460"
+				title: "Tier 2 Great Ball"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -10.0d
+		}
+		{
+			id: "2CF3A2EA6494CF7F"
+			tasks: [{
+				id: "0176AD32309C1CC8"
+				title: "Tier 3 Great Ball"
+				type: "checkmark"
+			}]
+			x: 6.0d
+			y: -6.5d
+		}
+		{
+			id: "6B1BD3E2D58EFE7A"
+			tasks: [{
+				id: "592B2B3A980DADF3"
+				title: "Tier 1 Ultra Ball"
+				type: "checkmark"
+			}]
+			title: "Tier 3 Quick/Ultra Balls"
+			x: -6.0d
+			y: 3.0d
+		}
+		{
+			id: "1C0DE7CEA639A8E1"
+			tasks: [{
+				id: "3BE6CD744BD52FB1"
+				title: "Tier 3 Ultra Ball"
+				type: "checkmark"
+			}]
+			title: "Tier 1 Quick/Ultra Balls"
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			id: "49959F21A97EF8C4"
+			tasks: [{
+				id: "56535EF389B232DB"
+				title: "Tier 2 Ultra Ball"
+				type: "checkmark"
+			}]
+			title: "Tier 2 Quick/Ultra Ball"
+			x: 0.0d
+			y: 7.0d
+		}
+		{
+			id: "23F50D9CEA93A9F4"
+			tasks: [{
+				id: "733AA02A30FB4EE0"
+				item: "gtceu:quantum_processor_mainframe"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 5.5d
+		}
+		{
+			id: "7A6958E47A3C55F2"
+			tasks: [{
+				id: "7AD72ADF7510568F"
+				title: "Custom PokeBalls?"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			id: "7673FACAE211DE0F"
+			tasks: [{
+				id: "0188379459EDC5BE"
+				item: "gtceu:micro_processor_computer"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -8.5d
+		}
+		{
+			id: "1C1314B085202BD3"
+			tasks: [{
+				id: "1020FADBB20C2E26"
+				item: "gtceu:micro_processor_mainframe"
+				type: "item"
+			}]
+			x: 5.0d
+			y: -5.5d
+		}
+		{
+			id: "6024C450699BED20"
+			tasks: [{
+				id: "2B10E5457806D6B8"
+				item: "gtceu:nano_processor_mainframe"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 2.0d
+		}
+		{
+			id: "2E239AE13C319B01"
+			tasks: [{
+				id: "626F8F42055B1206"
+				item: "gtceu:crystal_processor_mainframe"
+				type: "item"
+			}]
+			x: -5.0d
+			y: 2.0d
+		}
+	]
+	title: "Upgradeable Pokeballs? (HV Tier+)"
+}

@@ -1,0 +1,64 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "stone_and_steam_release_1"
+	group: "65727C688CE322CC"
+	id: "05A7B97D39ADE803"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "44E1780064189C83"
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "4C371C148A4843D5"
+				type: "checkmark"
+			}]
+			title: "Welcome to Cobblemon Genesis!"
+			x: 1.0d
+			y: -3.0d
+		}
+		{
+			id: "75790C624457F126"
+			tasks: [{
+				id: "5D1F21A27C6DDB11"
+				title: "Ore Generation?"
+				type: "checkmark"
+			}]
+			x: 5.0d
+			y: -3.0d
+		}
+		{
+			id: "0C643F91E33E351C"
+			tasks: [{
+				id: "1349572583754E2B"
+				title: "Guide to the Questbook"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: -7.0d
+		}
+		{
+			id: "738898F90259ABE9"
+			tasks: [{
+				id: "54D8502C49537894"
+				title: "Choosing your first Starter"
+				type: "checkmark"
+			}]
+			x: -3.0d
+			y: -3.0d
+		}
+		{
+			id: "71E0E2D968A54902"
+			tasks: [{
+				id: "5A8D160B4F6815DD"
+				title: "Cobblemon Progression"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: 1.0d
+		}
+	]
+	title: "Welcome to Cobblemon Genesis!"
+}

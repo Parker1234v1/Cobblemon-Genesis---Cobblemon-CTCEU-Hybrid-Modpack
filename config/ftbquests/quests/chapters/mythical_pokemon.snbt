@@ -1,0 +1,373 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "mythical_pokemon"
+	group: "2C635A8279381557"
+	id: "34A85EEB995AB115"
+	order_index: 10
+	quest_links: [ ]
+	quests: [
+		{
+			id: "3E91E8A0EBC13EDF"
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [{
+				id: "1B020A3F70F9243F"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Beyond the Myths"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7EF2F5B02D2F520D"]
+			hide_dependency_lines: true
+			id: "3CECFE4DA9B04EFA"
+			tasks: [{
+				id: "2264424FA8AA077E"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Paldea Mythical Badge"
+			x: -5.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["2EA76670FC928D01"]
+			hide_dependency_lines: true
+			id: "70AA94D2D8E54482"
+			tasks: [{
+				id: "1CF681DFA0ABBA7A"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Kanto Mythical Badge"
+			x: 0.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["03F33160D5087425"]
+			id: "50EF491AA284DEE9"
+			tasks: [{
+				id: "62BEEA7BB2D58D69"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Johto Mythical Badge"
+			x: 4.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["604DDC6B500311B9"]
+			hide_dependency_lines: true
+			id: "1B1C8DD565EA1A5B"
+			tasks: [{
+				id: "30285DE73BC8BFA9"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Galar Mythical Badge"
+			x: -7.5d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"234521747E4C34FC"
+				"78F1895F24EBE54E"
+			]
+			id: "10A0773ECE7625EA"
+			tasks: [{
+				id: "5D8BA55594D1B495"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Hoenn Mythical Badge"
+			x: 7.0d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"331A7F504C4E6FA6"
+				"0EBEA4EF31BC9C9F"
+				"49A4C21E0773F5E4"
+			]
+			id: "3C77DC3A8ED7B609"
+			tasks: [{
+				id: "2B28F2EA95C57376"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Kalos Mythical Badge"
+			x: -3.0d
+			y: 6.5d
+		}
+		{
+			dependencies: [
+				"6DFA3284B84CF571"
+				"5126AA2E4519E4C5"
+				"6E6B0C704A556444"
+				"35D9D356A3C13452"
+			]
+			id: "7A5004E92AF620C1"
+			tasks: [{
+				id: "4575D4EDB67AD084"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Unova Mythical Badge"
+			x: 3.0d
+			y: 6.5d
+		}
+		{
+			dependencies: [
+				"2A53326237AB5619"
+				"13D2482CD4F31548"
+				"220075458A3119FA"
+			]
+			id: "5832995C5F9EBC5F"
+			tasks: [{
+				id: "56CB98A24E0B5896"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Alola Mythical Badge"
+			x: -7.0d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"46B640AE52426DCC"
+				"4E1A7A2C5A7E8B54"
+				"0D49408BB59CB643"
+				"701E071060A10A81"
+			]
+			id: "6225EA2897043053"
+			tasks: [{
+				id: "082EB4DF6198ABFF"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Sinnoh Mythical Badge"
+			x: 6.0d
+			y: 2.5d
+		}
+		{
+			id: "2EA76670FC928D01"
+			subtitle: "Catch Mew"
+			tasks: [{
+				id: "078C60F2CE76520E"
+				title: "Complete the Questline \"The First Pokemon?\""
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -12.5d
+		}
+		{
+			id: "03F33160D5087425"
+			subtitle: "Catch Celebi"
+			tasks: [{
+				id: "6B81C493128CC94A"
+				title: "Complete the Questline \"Timelost Forest\""
+				type: "checkmark"
+			}]
+			x: 9.0d
+			y: -9.5d
+		}
+		{
+			id: "234521747E4C34FC"
+			tasks: [{
+				id: "726100420B723FBB"
+				title: "Complete the questline \"Life is what you wish it\""
+				type: "checkmark"
+			}]
+			x: 11.0d
+			y: -6.0d
+		}
+		{
+			id: "78F1895F24EBE54E"
+			subtitle: "Catch Deoxys"
+			tasks: [{
+				id: "74D3684FFADD96F4"
+				title: "Complete the questline \"A Stranger Meteorite\""
+				type: "checkmark"
+			}]
+			x: 12.0d
+			y: -4.0d
+		}
+		{
+			id: "701E071060A10A81"
+			subtitle: "Catch Manaphy and Phione"
+			tasks: [{
+				id: "4C5B42D9E2FDC037"
+				title: "Complete the questline \"The power of the Tides\""
+				type: "checkmark"
+			}]
+			x: 12.0d
+			y: 2.0d
+		}
+		{
+			id: "4E1A7A2C5A7E8B54"
+			subtitle: "Catch Darkrai"
+			tasks: [{
+				id: "32EC46F5F1CC33FC"
+				title: "Complete the quest \"Nightmares beyond Comprehension\""
+				type: "checkmark"
+			}]
+			x: 11.5d
+			y: 4.0d
+		}
+		{
+			id: "46B640AE52426DCC"
+			subtitle: "Catch Shaymin"
+			tasks: [{
+				id: "652B068468653ADC"
+				title: "Complet the questline \"Harmonius Grasslands\""
+				type: "checkmark"
+			}]
+			x: 10.5d
+			y: 6.0d
+		}
+		{
+			id: "0D49408BB59CB643"
+			subtitle: "Catch Arceus. Beat the pack."
+			tasks: [{
+				id: "0594F24AFA69D666"
+				title: "Complete the questline \"\"God Himself\""
+				type: "checkmark"
+			}]
+			x: 15.0d
+			y: 5.0d
+		}
+		{
+			id: "6E6B0C704A556444"
+			subtitle: "Catch Victini"
+			tasks: [{
+				id: "6823F1E87D1800C0"
+				title: "Complete the Questline \"Absolute Victory\""
+				type: "checkmark"
+			}]
+			x: 8.5d
+			y: 10.0d
+		}
+		{
+			id: "5126AA2E4519E4C5"
+			subtitle: "Catch Meloetta"
+			tasks: [{
+				id: "265C7AC9DBA2BA08"
+				title: "Complete the Questline \"Symphonic Power\""
+				type: "checkmark"
+			}]
+			x: 7.0d
+			y: 11.5d
+		}
+		{
+			id: "6DFA3284B84CF571"
+			subtitle: "Catch Genesect"
+			tasks: [{
+				id: "4B6F8AABD99F3488"
+				title: "Complete the Questline \"Past, Present, Future\""
+				type: "checkmark"
+			}]
+			x: 5.0d
+			y: 12.5d
+		}
+		{
+			id: "35D9D356A3C13452"
+			subtitle: "Catch Keldeo"
+			tasks: [{
+				id: "44E67EC6D6734355"
+				title: "Complete the Questline \"A Fine Duel\""
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: 13.0d
+		}
+		{
+			id: "49A4C21E0773F5E4"
+			tasks: [{
+				id: "6C52D8EFC92B411E"
+				title: "Complete the questline \"Infinite Steam Age\""
+				type: "checkmark"
+			}]
+			x: -3.0d
+			y: 13.0d
+		}
+		{
+			id: "331A7F504C4E6FA6"
+			subtitle: "Catch Diance"
+			tasks: [{
+				id: "26A3415342527644"
+				title: "Complete the Questline \"A Beautiful Gemstone\""
+				type: "checkmark"
+			}]
+			x: -5.0d
+			y: 12.5d
+		}
+		{
+			id: "0EBEA4EF31BC9C9F"
+			subtitle: "Catch Hoopa"
+			tasks: [{
+				id: "6BBA0350FA41550A"
+				title: "Complete the questline \"Rings of Power\""
+				type: "checkmark"
+			}]
+			x: -7.0d
+			y: 11.0d
+		}
+		{
+			id: "13D2482CD4F31548"
+			tasks: [{
+				id: "510CD2810869622A"
+				title: "Complete the Questline \"Gears of Peace of War?\" \""
+				type: "checkmark"
+			}]
+			x: -11.5d
+			y: 4.5d
+		}
+		{
+			id: "220075458A3119FA"
+			tasks: [{
+				id: "1CBC5FC802183A39"
+				title: "Complete the Questline \"Ancestor's Sins\""
+				type: "checkmark"
+			}]
+			x: -10.0d
+			y: 6.5d
+		}
+		{
+			id: "2A53326237AB5619"
+			subtitle: "Catch Zeraora"
+			tasks: [{
+				id: "1C0021CAD9D694C3"
+				title: "Complete the Questline \"The Beast Within\"\""
+				type: "checkmark"
+			}]
+			x: -12.5d
+			y: 2.5d
+		}
+		{
+			id: "604DDC6B500311B9"
+			subtitle: "Catch Zarude"
+			tasks: [{
+				id: "22CCBACAD2036D6C"
+				title: "Complete the Questline \"Terror of the Jungle\""
+				type: "checkmark"
+			}]
+			x: -12.5d
+			y: -4.5d
+		}
+		{
+			id: "7EF2F5B02D2F520D"
+			subtitle: "Catch Pecharunt"
+			tasks: [{
+				id: "5B932FE7293370A3"
+				title: "Complete the Questline \"Mastermind behind it all\""
+				type: "checkmark"
+			}]
+			x: -8.0d
+			y: -9.5d
+		}
+	]
+	title: "Mythical Pokemon"
+}

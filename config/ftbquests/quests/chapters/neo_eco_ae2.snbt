@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "neo_eco_ae2"
+	group: "12976D58F8393CDC"
+	id: "1C15F9DD3422A736"
+	order_index: 1
+	quest_links: [ ]
+	quests: [ ]
+	title: "AE2 Addons (OMNI AE2)"
+}

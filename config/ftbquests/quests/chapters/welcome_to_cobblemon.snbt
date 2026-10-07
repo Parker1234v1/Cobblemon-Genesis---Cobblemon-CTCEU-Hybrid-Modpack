@@ -1,0 +1,75 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "welcome_to_cobblemon"
+	group: "2C635A8279381557"
+	icon: "cobblemon:poke_ball"
+	id: "737DD487F281E29D"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "67608A2A75A56AE4"
+			tasks: [{
+				id: "69CF0A5ED6387EBA"
+				title: "Cobblemon Progression"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "769DF63BFF2950BB"
+			tasks: [{
+				id: "0EB586943AF26F0F"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Choose your Starter!"
+			x: 0.0d
+			y: -4.5d
+		}
+		{
+			id: "22C04F03ED85F2C3"
+			tasks: [{
+				id: "061417FE02B10A82"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			title: "Apricorns"
+			x: 4.0d
+			y: -8.0d
+		}
+		{
+			id: "216FB61A696A5D3A"
+			tasks: [{
+				id: "32ED33330FDC03A8"
+				title: "Natures?"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			id: "51F8F55937608F4C"
+			tasks: [{
+				id: "742C4C0A9606084F"
+				title: "EV's?"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			id: "24BBC4A598C9FE86"
+			tasks: [{
+				id: "39CA141C76F80EAA"
+				title: "IV's?"
+				type: "checkmark"
+			}]
+			x: 8.0d
+			y: 4.0d
+		}
+	]
+	title: "Welcome to Cobblemon!"
+}

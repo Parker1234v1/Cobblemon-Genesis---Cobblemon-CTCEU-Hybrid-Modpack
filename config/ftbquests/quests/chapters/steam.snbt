@@ -1,0 +1,20 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "steam"
+	group: "7156C6E5515A225A"
+	id: "0E39B83C0BCE7DDB"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "6EC5A44881263D6D"
+		tasks: [{
+			id: "1987593D7A041AC0"
+			item: "gtceu:bronze_ingot"
+			type: "item"
+		}]
+		x: -5.0d
+		y: -1.0d
+	}]
+	title: "Steam (Release 1)"
+}

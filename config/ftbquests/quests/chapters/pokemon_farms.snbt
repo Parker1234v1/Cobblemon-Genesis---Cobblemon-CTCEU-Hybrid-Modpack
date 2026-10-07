@@ -1,0 +1,20 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "pokemon_farms"
+	group: "4F9F30809FB74639"
+	id: "060F6B9A3C7416A7"
+	order_index: 5
+	quest_links: [ ]
+	quests: [{
+		id: "7F4E12780C76977C"
+		tasks: [{
+			id: "027D3FFD198A6526"
+			title: "Farmer's Delight?"
+			type: "checkmark"
+		}]
+		x: -1.0d
+		y: -0.5d
+	}]
+	title: "Pokemon Farms?"
+}

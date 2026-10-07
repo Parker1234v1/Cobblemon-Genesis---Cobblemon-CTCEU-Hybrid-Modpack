@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "terrastalization_and_dynamax"
+	group: "2C635A8279381557"
+	id: "01C276E75A570131"
+	order_index: 5
+	quest_links: [ ]
+	quests: [ ]
+	title: "Terrastalization (ZPM Tier)"
+}

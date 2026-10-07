@@ -1,0 +1,11 @@
+{
+	chapter_groups: [
+		{ id: "65727C688CE322CC", title: "Cobblemon Genesis" }
+		{ id: "7156C6E5515A225A", title: "Gregtech " }
+		{ id: "2C635A8279381557", title: "Cobblemon" }
+		{ id: "4F9F30809FB74639", title: "Useful Cobblemon Information" }
+		{ id: "2FAA7F1636C58549", title: "Processing Lines" }
+		{ id: "0B745C85B8F51763", title: "Storage and Logistics" }
+		{ id: "12976D58F8393CDC", title: "Applied Energistics 2" }
+	]
+}

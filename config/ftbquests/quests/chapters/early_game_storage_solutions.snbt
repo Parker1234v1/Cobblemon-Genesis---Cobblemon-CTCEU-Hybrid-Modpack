@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "early_game_storage_solutions"
+	group: "0B745C85B8F51763"
+	id: "2EC3B8252951E54F"
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+	title: "Early Game Storage Solutions"
+}
